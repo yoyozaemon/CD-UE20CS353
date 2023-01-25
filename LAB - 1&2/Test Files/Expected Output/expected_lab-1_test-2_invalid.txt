@@ -1,0 +1,6 @@
+Error: syntax error,line number: 3,token: /
+Error: Unrecognized token,line number: 14,token: :
+Error: syntax error,line number: 14,token: c
+Error: Unrecognized token,line number: 15,token: :
+Error: syntax error,line number: 28,token: *
+Error: syntax error,line number: 41,token: }

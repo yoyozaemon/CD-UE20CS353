@@ -9,4 +9,4 @@ Create a lexer for C language using the lex tool
 Syntax Validation and Expression Evaluation
 
 ## Lab - 3
-Symbol Table Generation & Expression Evaluation
+Symbol Table Generation and Expression Evaluation

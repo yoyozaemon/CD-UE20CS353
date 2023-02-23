@@ -7,3 +7,6 @@ Create a lexer for C language using the lex tool
 
 ## Lab - 2
 Syntax Validation and Expression Evaluation
+
+## Lab - 3
+Symbol Table Generation & Expression Evaluation

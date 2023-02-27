@@ -2,6 +2,8 @@
 
 A repository containing the source code for the Compiler Design Laboratory  And Assignment Course (UE20CS353) at PES University
 
+## Assignment - 1
+
 ## Lab - 1
 Create a lexer for C language using the lex tool
 

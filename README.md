@@ -12,6 +12,11 @@ To extend the file from Lab 2 & 3 to handle validation of :
 
 Update the symbol table with the value of a variable. Perform necessary error checking such as : Variable not declared error, mismatch types in expression and display relevant error messages.
 
+## Assignment - 2
+To extend the Lab 4(AST Construction) and Lab 5(ICG)file for:
+- if condition
+- if else condition
+
 ## Lab - 1
 Create a lexer for C language using the lex tool
 
@@ -20,3 +25,10 @@ Syntax Validation and Expression Evaluation
 
 ## Lab - 3
 Symbol Table Generation and Expression Evaluation
+
+## Lab - 4
+Abstract Syntax Tree **(AST)**
+
+## Lab - 5
+Intermediate Code Generation **(ICG)** for Quadruples
+
